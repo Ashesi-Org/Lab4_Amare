@@ -1,0 +1,1 @@
+[{"email": "moh.salah@ashesi.edu.gh", "firstName": "salah", "hasVoted": true, "id": "100", "lastName": "moh", "major": "MIS", "yearGroup": "2000"}]

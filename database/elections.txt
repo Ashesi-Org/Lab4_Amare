@@ -1,0 +1,1 @@
+[{"electionId": "EID_SPRING_2024", "ballot": [{"candidateId": "222", "candidateName": "Elon Musk", "voteCount": 1}, {"candidateId": "333", "candidateName": "Amon Kali", "voteCount": 0}]}]

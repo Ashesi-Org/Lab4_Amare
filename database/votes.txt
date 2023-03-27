@@ -1,0 +1,1 @@
+[{"voterId": "100", "electionId": "EID_SPRING_2024", "candidateId": "222"}]
